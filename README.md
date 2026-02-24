@@ -6,6 +6,8 @@ Praktikum 01-Routing
 ![alt text](image-1.png)
 ![alt text](image.png)
 ![alt text](image-2.png)
+Praktiku 02
+![alt text](image-3.png)
 
 
 
