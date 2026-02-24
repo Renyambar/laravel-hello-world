@@ -18,6 +18,5 @@ Route::resource('photos', PhotoController::class)->except([
 Route::get('/', HomeController::class);
 Route::get('/about', AboutController::class);
 Route::get('/articles/{id}', ArticleController::class);
-Route::get('/greeting', function () {
-return view('blog.hello', ['name' => 'Reny Ambarwati']);
-});
+Route::get('/greeting', [WelcomeController::class,
+'greeting']);

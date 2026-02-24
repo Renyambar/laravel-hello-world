@@ -10,6 +10,7 @@ Praktikum 02
 ![alt text](image-3.png)
 Praktikum 03
 ![alt text](image-4.png)
+![alt text](image-5.png)
 
 
 
